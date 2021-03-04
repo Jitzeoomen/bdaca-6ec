@@ -11,4 +11,4 @@ Students liked the old book a lot, and it was continously improved over the year
 
 Vice versa, the new book was in fact very much inspired by the setup of this course, so you will find that -- while we will not cover each of its 500 pages -- the table of contents neatly maps to the weeks of this course.
 
-For the exact schedule, please see the [course manual](syllabus/bd-aca_12ECTS_werkboek.pdf).
+For the exact schedule, please see the [course manual](syllabus/bd-aca_6ECTS_werkboek.pdf).
